@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "1098508868460",
+    "project_id": "casino-1196a",
+    "storage_bucket": "casino-1196a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098508868460:android:8874caa87455a81092b149",
+        "android_client_info": {
+          "package_name": "com.jettech.carrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098508868460-l5rhtfttfrckhulkgjhs6sf2qmegmuat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jettech.carrescue",
+            "certificate_hash": "254677ef26e15f585ff5f3f1f010dd82d52fc840"
+          }
+        },
+        {
+          "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lA2lR2a1ZtQzKoO-2oGkfhnEsRRBUZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098508868460:android:a1b46ad3c5660d0992b149",
+        "android_client_info": {
+          "package_name": "com.jettech.casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098508868460-9o7mg8u7p7bu74isvk7geimv9vj6lsbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jettech.casino",
+            "certificate_hash": "254677ef26e15f585ff5f3f1f010dd82d52fc840"
+          }
+        },
+        {
+          "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lA2lR2a1ZtQzKoO-2oGkfhnEsRRBUZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098508868460:android:53a1f42649f6697c92b149",
+        "android_client_info": {
+          "package_name": "com.jettech.notifiy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lA2lR2a1ZtQzKoO-2oGkfhnEsRRBUZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098508868460-cjpeccbl4te7djd1ijg087aoennr9863.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
